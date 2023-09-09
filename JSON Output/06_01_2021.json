@@ -1,0 +1,28 @@
+[
+    {
+        "pid": "1880897",
+        "date": "06/01/2021",
+        "time": "10:30 AM",
+        "court_type": "Trial Division",
+        "division": "Criminal Division",
+        "judicial_officer": "Justice Coghlan",
+        "case_number": "S ECR 2020 0251",
+        "description": "R v. D W",
+        "court_address": "In Chambers",
+        "summary": "For Mention (Virtual Hearing)",
+        "maps_url": ""
+    },
+    {
+        "pid": "1880898",
+        "date": "06/01/2021",
+        "time": "10:30 AM",
+        "court_type": "Trial Division",
+        "division": "Commercial Court Duty Judge",
+        "judicial_officer": "Justice Stynes",
+        "case_number": "S ECI 2021 00004",
+        "description": "In the Matter of Mount Rommel Mining Limited (ACN 005 583 031)",
+        "court_address": "In Chambers",
+        "summary": "Application (Virtual Hearing)",
+        "maps_url": ""
+    }
+]
